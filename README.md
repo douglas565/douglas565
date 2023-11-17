@@ -14,7 +14,7 @@
 </a>
     <a href="https://www.linkedin.com/in/douglas-ramos-charqueiro-075a87293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
         <img alt="LinkedIn" src="https://img.shields.io/static/v1?style=flat&logo=linkedin&logoColor=white&color=%230A66C1&label=&message=Douglas%20Ramos"/>
-    </a> </a> <a href="https://discordapp.com/users/289112759948410881/">
+    </a> </a> <a href="https://discordapp.com/users/426757262158200853/">
         <img alt="Discord" src="https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%237289DA&label=&message=Grots"/>
     </a> </a> <a href="https://instagram.com/douglas_ramos565?igshid=MzMyNGUyNmU2YQ==">
         <img alt="Instagram" src="https://img.shields.io/static/v1?style=flat&logo=instagram&logoColor=white&color=%23E4405F&label=&message=douglas_ramos565"/></a>
