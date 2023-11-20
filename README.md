@@ -7,8 +7,9 @@
 
 ## About
 - Studying | information systems (UFSM - RS)
-- Finished | Electrotechnics (UFSM/CTISM - RS)
 - Working  | with scholarship GEDRE (UFSM - RS)
+- Finished | Electrotechnics (UFSM/CTISM - RS)
+
 
 ## Contact/Social
 </a>
