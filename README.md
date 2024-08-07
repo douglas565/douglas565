@@ -1,9 +1,25 @@
 <h1 align="center">Douglas Ramos</h1>
 
-<div align="center">  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=douglas565&show_icons=true&count_private=true&hide_border=true&title_color=e9c044&icon_color=e9c0444&text_color=e9c044&bg_color=0d1117" alt="douglas565 github stats" /> 
-    <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas565&layout=compact&hide_border=true&title_color=e9c044&text_color=e9c044&bg_color=0d1117" />
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=douglas565&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+---
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=douglas565v&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas565&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
+ 
+
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=douglas565&style=for-the-badge&color=orange" alt=""/>
 </div>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 ## About
 - Studying | Computer Science (UFSC - SC)
