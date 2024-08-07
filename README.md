@@ -7,7 +7,7 @@
 
 ## About
 - Studying | Information systems (UFSM - RS)
-- Working  | with Group Setup (JFSC - SC)
+- Working  | with Setup Group  (JFSC - SC)
 - Finished | Electrotechnics (UFSM/CTISM - RS)
 
 
