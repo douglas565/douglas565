@@ -43,7 +43,7 @@
 
 | Visual Studio Code | Visual Studio | Git |
 |--------------------|---------------|-----|
-| <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Visual Studio Code" alt="Visual Studio Code"/> | <img src="https://img.shields.io/badge/Visual_Studio-7D3BBC?style=for-the-badge&logo=visual%20studio&logoColor=white" title="Visual Studio" alt="Visual Studio"/> | <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> |
 
 
 ## OS:
