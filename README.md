@@ -25,7 +25,6 @@
 
 ### Skills:
 
-```html
 <table>
   <tr>
     <th>C</th>
