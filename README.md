@@ -6,7 +6,7 @@
 </div>
 
 ## About
-- Studying | Computer Science (UFSC - SC)
+- Studying | Information systems (UFSm - RS)
 - Working  | with scholarship GEDRE (UFSM - RS)
 - Finished | Electrotechnics (UFSM/CTISM - RS)
 
