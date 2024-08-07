@@ -7,7 +7,7 @@
 
 ## About
 - Studying | Information systems (UFSM - RS)
-- Working  | with scholarship GEDRE (UFSM - RS)
+- Working  | with Group Setup (JFSC - SC)
 - Finished | Electrotechnics (UFSM/CTISM - RS)
 
 
@@ -42,6 +42,6 @@
 | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="55" height="55" style="display:block; margin:auto;"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="55" height="55" style="display:block; margin:auto;"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55" style="display:block; margin:auto;"/> |
 
 
-
+##
 [![trophy](https://github-profile-trophy.vercel.app/?username=douglas565&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
