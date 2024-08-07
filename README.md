@@ -23,8 +23,32 @@
 
 ## Skills
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C-sharp&logoColor=white"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white">
+### Skills:
+
+```html
+<table>
+  <tr>
+    <th>C</th>
+    <th>C++</th>
+    <th>HTML5</th>
+    <th>CSS3</th>
+    <th>Python</th>
+    <th>JavaScript</th>
+    <th>C#</th>
+    <th>SQL</th>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" width="120" height="40"/></td>
+    <td><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="120" height="40"/></td>
+    <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="120" height="40"/></td>
+    <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="120" height="40"/></td>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="120" height="40"/></td>
+    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="120" height="40"/></td>
+    <td><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C-sharp&logoColor=white" width="120" height="40"/></td>
+    <td><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" width="120" height="40"/></td>
+  </tr>
+</table>
+```
 
 ### My tools for Data Manipulation & Visualisation:
 
