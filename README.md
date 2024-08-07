@@ -6,7 +6,7 @@
 </div>
 
 ## About
-- Studying | Information systems (UFSm - RS)
+- Studying | Information systems (UFSM - RS)
 - Working  | with scholarship GEDRE (UFSM - RS)
 - Finished | Electrotechnics (UFSM/CTISM - RS)
 
