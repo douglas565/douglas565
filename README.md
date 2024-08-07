@@ -1,77 +1,41 @@
+<h1 align="center">Douglas Ramos</h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=douglas565&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-  
-### About Me:  
-<!--
-I'm a passionate data scientist with a knack for predictive analytics, specializing in recurrent neural networks (RNN) and LSTM models. I thrive on tackling regression tasks and exploring the fascinating realm of reinforcement learning (RL). Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess.
--->
-Currently, I'm delving into the realms of decentralized finance (DeFi) and web3, where I'm actively engaged in crafting and analyzing smart contracts. During my leisure time, you'll find me honing my problem-solving skills on LeetCode and participating in CTF challenges.
-       
-   
-### Social media: 📡    
-Join me on Telegram, where I share insights, victories, and even the occasional setback. Embrace the cyberpunk ethos with me. 
+<div align="center">  
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=douglas565&show_icons=true&count_private=true&hide_border=true&title_color=e9c044&icon_color=e9c0444&text_color=e9c044&bg_color=0d1117" alt="douglas565 github stats" /> 
+    <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas565&layout=compact&hide_border=true&title_color=e9c044&text_color=e9c044&bg_color=0d1117" />
+</div>
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/from_the_teapot_to_the_investor)
-
-## Competitions: 🥇
- 
-### CTF's
-
-| CTF | Result | Team | Date |
-|-----|-----|-----|-----|
-|CIT@CTF|top 6%| undermouses |04/2024|
-|BSidesSF CTF|top 10%| movie43 |05/2024|
-|swampCTF|top 17%|check_your_mouse |03/2024|
-|n00bzCTF|top 19%|movie43|08/2024|
-|Space HeroesCTF| top 23% | undermouses |04/2024|
-|AI CTF|top 23%|movie43|05/2024|
-|BCACTF 5.0|top 25%|movie43|06/2024|
-|vsCTF|top 26%| movie43 |06/2024|
-|wolvCTF|top 31%| undermouses|03/2024|
-|osuCTF|top 35%| undermouses |02/2024|
-|ethernautCTF|out of competition|solo|03/2024|
-
-### Algorithms [LeetCode](https://leetcode.com/douglas565/)
+## About
+- Studying | Computer Science (UFSC - SC)
+- Working  | with scholarship GEDRE (UFSM - RS)
+- Finished | Electrotechnics (UFSM/CTISM - RS)
 
 
-### Working on: 🚀
+## Contact/Social
+</a>
+        <a href="https://www.linkedin.com/in/douglas-ramos-charqueiro-075a87293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"></a>
+                <img alt="LinkedIn" src="https://img.shields.io/static/v1?style=flat&logo=linkedin&logoColor=white&color=%230A66C1&label=&message=Douglas%20Ramos"/>
+        </a> </a> <a href="https://discordapp.com/users/426757262158200853/"></a>
+                <img alt="Discord" src="https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%237289DA&label=&message=Grots"/>
+        </a> </a> <a href="https://instagram.com/douglas_ramos565?igshid=MzMyNGUyNmU2YQ=="></a>
+                <img alt="Instagram" src="https://img.shields.io/static/v1?style=flat&logo=instagram&logoColor=white&color=%23E4405F&label=&message=douglas_ramos565"/></a>
 
-- Learning [GO](https://github.com/douglas565/go_ilya_kruk)
-- [fullstack web3 development course](https://github.com/douglas565/full_course_crypto_32) 
-- [ethernaut tasks](https://github.com/douglas565/ethernaut_source_tasks)
-- Various bots and scripts, with results showcased [here](https://t.me/from_the_teapot_to_the_investor)
+## Skills
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C-sharp&logoColor=white"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white">
 
 
-## Languages and Tools 
-<div>
+## Design (intermediary)
 
-### Languages:
-| Python3 | C | JS | Solidity | GO |
-|----------|----------|----------|-----|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Solidity" alt="Solidity" width="55" height="55"/>| 
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
 
-  
+## IDEs/Terminal
 
-### Best frameworks and main libraries for Python3:
-
-| Pytorch | Selenium | Numpy | Pandas | Sklearn | OpenCV |
-|----------|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/Visual_Studio-7D3BBC?style=for-the-badge&logo=visual%20studio&logoColor=white"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> 
 
 
 
-### My tools for Data Manipulation & Visualisation:
+## Operating Systems
 
-| Conda | Jupyter | Spark | MySQL | Postgres | SQLite | Plotly | Matpltlib |
-|----------|----------|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="pltly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="plotly" alt="pltly" width="55" height="55"/> |
-
-  
-### Environments, Testing, Other:
-
-| nodejs | Git | Docker | Pytest | Swagger | Postman | VBox | HardHat | Kafka |
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Swagger" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="Postman" alt="Postman" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="Swagger" alt="Swagger" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="kafka" alt="kafka" width="55" height="55"/>|
-
-
-###
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/IOS-000000?style=for-the-badge&logo=ios&logoColor=white">
