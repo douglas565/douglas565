@@ -20,6 +20,7 @@
         </a> </a> <a href="https://instagram.com/douglas_ramos565?igshid=MzMyNGUyNmU2YQ=="></a>
                 <img alt="Instagram" src="https://img.shields.io/static/v1?style=flat&logo=instagram&logoColor=white&color=%23E4405F&label=&message=douglas_ramos565"/></a>
 
+
 ## Skills
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
