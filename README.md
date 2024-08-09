@@ -6,7 +6,7 @@
 </div>
 
 ## About
-- Studying | Information systems (UFSM - RS)
+- Studying | Information Systems (UFSM - RS)
 - Working  | with Setup Group  (JFSC - SC)
 - Finished | Electrotechnics (UFSM/CTISM - RS)
 
