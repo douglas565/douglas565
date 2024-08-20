@@ -6,10 +6,10 @@
 </div>
 
 ## About
-- Studying | Information Systems (UFSM - RS)
+- Studying | Computer science (Unisul)
 - Working  | with Setup Group  (JFSC - SC)
 - Finished | Electrotechnics (UFSM/CTISM - RS)
-
+  
 
 ## Contact/Social
 </a>
