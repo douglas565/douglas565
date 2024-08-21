@@ -6,7 +6,7 @@
 </div>
 
 ## About
-- Studying | Computer science (Unisul)
+- Studying | Computer Science (Unisul)
 - Working  | with Setup Group  (JFSC - SC)
 - Finished | Electrotechnics (UFSM/CTISM - RS)
   
