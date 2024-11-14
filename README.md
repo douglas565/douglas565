@@ -7,7 +7,7 @@
 
 ## About
 - Studying | Computer Science (Unisul)
-- Working  | with Setup Group  (JFSC - SC)
+- Working  | with Engie Brasil (Florianópolis - SC)
 - Finished | Electrotechnics (UFSM/CTISM - RS)
   
 
