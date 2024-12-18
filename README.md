@@ -38,7 +38,7 @@
 ### IDEs/Terminal
 
 | Visual Studio Code | Visual Studio | Git |
-|--------------------|---------------|-----|
+|-------------|-------------|-----|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="55" height="55" style="display:block; margin:auto;"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="55" height="55" style="display:block; margin:auto;"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55" style="display:block; margin:auto;"/> |
 
 
