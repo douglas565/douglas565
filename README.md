@@ -44,7 +44,7 @@
 
 ##
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=douglas565&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ##
 
