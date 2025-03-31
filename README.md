@@ -13,8 +13,8 @@
 ## Contact/Social
 </a>
         <a href="https://www.linkedin.com/in/douglas-ramos-charqueiro-075a87293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"></a>
-                <img alt="LinkedIn" src="https://img.shields.io/static/v1?style=flat&logo=linkedin&logoColor=white&color=%230A66C1&label=&message=Douglas%20Ramos"/>
-        </a> </a> <a href="https://discordapp.com/users/426757262158200853/"></a>
+                <a href="https://www.linkedin.com/in/seu-usuario-linkedin" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/static/v1?style=flat&logo=linkedin&logoColor=white&color=%230A66C1&label=&message=Douglas%20Ramos"/></a>
                 <img alt="Discord" src="https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%237289DA&label=&message=Grots"/>
         </a> </a> <a href="https://instagram.com/douglas_ramos565?igshid=MzMyNGUyNmU2YQ=="></a>
                 <img alt="Instagram" src="https://img.shields.io/static/v1?style=flat&logo=instagram&logoColor=white&color=%23E4405F&label=&message=douglas_ramos565"/></a>
