@@ -110,7 +110,7 @@
 ## 🐍 Contribuições
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/douglas565/douglas565/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img width="1000" src="github-snake.svg" alt="snake"/>
 </div>
 
 <br/>
