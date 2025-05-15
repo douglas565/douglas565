@@ -1,54 +1,120 @@
-<h1 align="center">Douglas Ramos</h1>
+<h1 align="center">👋 Olá, eu sou Douglas Ramos!</h1>
+<h3 align="center">Estudante de Ciência da Computação | Desenvolvedor em Formação</h3>
 
-<div align="center">  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=douglas565&show_icons=true&count_private=true&hide_border=true&title_color=e9c044&icon_color=e9c0444&text_color=e9c044&bg_color=0d1117" alt="douglas565 github stats" /> <img width="400" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas565&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E9C044&center=true&vCenter=true&width=435&lines=Desenvolvendo+meu+futuro;Aprendendo+novas+tecnologias;Transformando+código+em+soluções" alt="Typing SVG" />
+  </a>
 </div>
 
-## About
-- Studying | Computer Science (Unisul)
-- Working  | with Engie Brasil (Florianópolis - SC)
-- Finished | Electrotechnics (UFSM/CTISM - RS)
-  
+<br/>
 
-## Contact/Social
-</a>
-        <a href="https://www.linkedin.com/in/douglas-ramos-charqueiro-075a87293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"></a>
-                <a href="https://www.linkedin.com/in/seu-usuario-linkedin" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/static/v1?style=flat&logo=linkedin&logoColor=white&color=%230A66C1&label=&message=Douglas%20Ramos"/></a>
-                <img alt="Discord" src="https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%237289DA&label=&message=Grots"/>
-        </a> </a> <a href="https://instagram.com/douglas_ramos565?igshid=MzMyNGUyNmU2YQ=="></a>
-                <img alt="Instagram" src="https://img.shields.io/static/v1?style=flat&logo=instagram&logoColor=white&color=%23E4405F&label=&message=douglas_ramos565"/></a>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=douglas565&show_icons=true&count_private=true&hide_border=true&title_color=e9c044&icon_color=e9c044&text_color=ffffff&bg_color=0d1117&include_all_commits=true" alt="Douglas Ramos GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas565&hide=html,css&langs_count=6&layout=compact&hide_border=true&title_color=e9c044&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
+</div>
 
+<br/>
 
-## Skills
+## 📌 Sobre Mim
 
-### Languages:
-| Python3 | C | JS | C++ | C# | Java |
-|----------|----------|----------|-----|-----|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" title="Java" alt="Java" width="55" height="55"/> |
+🎓 **Formação**:
+- Cursando Ciência da Computação na Unisul
+- Formado em Eletrotécnica pela UFSM/CTISM-RS
 
-### My tools for Data Manipulation & Visualisation:
+💼 **Experiência Profissional**:
+- Atualmente trabalhando na Engie Brasil (Florianópolis - SC)
 
-| Conda | Jupyter | Spark | MySQL | Postgres | SQLite | Plotly | Matpltlib |
-|----------|----------|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="pltly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="plotly" alt="pltly" width="55" height="55"/> |
+🌱 **Aprendendo**:
+- Desenvolvimento de Software
+- Ciência de Dados
+- Inteligência Artificial
 
+<br/>
 
-### IDEs/Terminal
+## 🌐 Contatos & Redes Sociais
 
-| Visual Studio Code | Visual Studio | Git |
-|------|-------|-----|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="55" height="55" style="display:block; margin:auto;"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="55" height="55" style="display:block; margin:auto;"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55" style="display:block; margin:auto;"/> |
+<div align="center">
+  <a href="https://www.linkedin.com/in/douglas-ramos-charqueiro-075a87293" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/douglas_ramos565" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="discordapp.com/users/Grots" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="mailto:seu-email@exemplo.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
 
+<br/>
 
-##
+## 🛠️ Tecnologias & Habilidades
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+### 💻 Linguagens de Programação
 
-##
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+</div>
 
-<p align="center">
- <img width="1000" src="github-snake.svg" alt="snake"/>
-</p>
+### 📊 Dados & Análise
 
-  
+<div align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+</div>
+
+### 🗃️ Bancos de Dados
+
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+</div>
+
+### 🛠️ Ferramentas & Plataformas
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
+</div>
+
+<br/>
+
+## 📈 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=douglas565&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=douglas565&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+<br/>
+
+## 🐍 Contribuições
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/douglas565/douglas565/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=douglas565&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
