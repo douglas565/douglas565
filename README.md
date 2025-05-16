@@ -44,7 +44,7 @@
   <a href="discordapp.com/users/Grots" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="mailto:seu-email@exemplo.com" target="_blank">
+  <a href="mailto:ghgghgc60@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
