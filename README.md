@@ -1,10 +1,10 @@
 <h1 align="center">👋 Olá, eu sou Douglas Ramos!</h1>
 <h3 align="center">Estudante de Ciência da Computação | Desenvolvedor em Formação</h3>
 
+<br>
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Minhas+linguagens" alt="Typing SVG" /></a>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E9C044&center=true&vCenter=true&width=435&lines=Desenvolvendo+meu+futuro;Aprendendo+novas+tecnologias;Transformando+código+em+soluções" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Minhas+linguagens+/+My+languages" alt="Typing SVG" />
 </div>
 
 <br/>
