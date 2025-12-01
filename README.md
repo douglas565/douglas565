@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou Douglas Ramos!</h1>
-<h3 align="center">Estudante de Ciência da Computação | Desenvolvedor em Formação</h3>
+<h3 align="center">Estudante de Ciência da Computação | Desenvolvedor/h3>
 
 <br>
 
