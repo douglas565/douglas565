@@ -9,13 +9,6 @@
 
 <br/>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=douglas565&show_icons=true&count_private=true&hide_border=true&title_color=e9c044&icon_color=e9c044&text_color=ffffff&bg_color=0d1117&include_all_commits=true" alt="Douglas Ramos GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas565&hide=html,css&langs_count=6&layout=compact&hide_border=true&title_color=e9c044&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
-</div>
-
-<br/>
-
 ## 📌 Sobre Mim
 
 🎓 **Formação**:
